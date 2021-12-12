@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #7BDAF3;
+}
+
+.notes{
+    width: 400px;
+    background-color: white;
+    height: 400px;
+}
